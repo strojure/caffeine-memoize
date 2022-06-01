@@ -1,4 +1,4 @@
-(defproject com.github.strojure/caffeine-memoize "1.0.2"
+(defproject com.github.strojure/caffeine-memoize "1.1.3-SNAPSHOT"
   :description "Clojure function memoization using Caffeine java library"
   :url "https://github.com/strojure/caffeine-memoize"
   :license {:name "Apache License 2.0"
