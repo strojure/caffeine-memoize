@@ -4,6 +4,6 @@
   :license {:name "Unlicense" :url "https://unlicense.org"}
 
   :dependencies [[org.clojure/clojure "1.11.1" :scope "provided"]
-                 [com.github.ben-manes.caffeine/caffeine "3.1.1"]]
+                 [com.github.ben-manes.caffeine/caffeine "3.1.5"]]
 
   :profiles {:dev {:dependencies []}})

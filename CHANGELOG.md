@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 Release date `UNRELEASED`
 
 - (chore) Change license to Unlicense.
+- (chore deps) Upgrade caffeine "3.1.5".
 
 ## `1.0.4`
 
