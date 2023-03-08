@@ -1,4 +1,4 @@
-(defproject com.github.strojure/caffeine-memoize "1.0.9"
+(defproject com.github.strojure/caffeine-memoize "1.0.10-SNAPSHOT"
   :description "Clojure function memoization using Caffeine java library"
   :url "https://github.com/strojure/caffeine-memoize"
   :license {:name "Unlicense" :url "https://unlicense.org"}
